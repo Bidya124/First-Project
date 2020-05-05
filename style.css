@@ -1,0 +1,49 @@
+body {
+  font-family: 'Playfair Display', serif;
+  font-size: 20px;
+  background: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+}
+
+.box {
+  background: #5f9ea096;
+  padding: 10px;
+  width: 40%;
+  margin: 10% auto;
+}
+
+.form_control {
+  display: block;
+  width: 60%;
+  padding: 10px;
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 10px;
+}
+
+.button {
+  display: block;
+  background: olive;
+  padding: 10px;
+  margin: 0 auto;
+  text-transform: uppercase;
+}
+
+.res {
+  display: block;
+  text-align: center;
+  color: #960505;
+}
+
+.reg {
+  display: block;
+  text-align: center;
+  color: darkblue;
+}
+
+.box p {
+  display: block;
+  margin: 10px auto;
+  text-align: center;
+}
