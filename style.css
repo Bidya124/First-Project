@@ -24,10 +24,13 @@ body {
 
 .button {
   display: block;
-  background: olive;
+  background: #009688;
   padding: 10px;
   margin: 0 auto;
   text-transform: uppercase;
+}
+.button:hover{
+  background-color: olive;
 }
 
 .res {
